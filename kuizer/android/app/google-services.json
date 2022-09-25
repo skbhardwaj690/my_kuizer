@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "479610373068",
+    "project_id": "kuizer-demo-4a44f",
+    "storage_bucket": "kuizer-demo-4a44f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479610373068:android:820c5d7c2f5f7ca5165369",
+        "android_client_info": {
+          "package_name": "com.example.kuizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479610373068-4bv61lgdddhfenuq9j80e2ot3gobfrbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOONqc4NQYirFGwdh1mVCrHs7uZnCl2Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479610373068-4bv61lgdddhfenuq9j80e2ot3gobfrbs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "479610373068-apu6o4ni6cg764c7s89pkpbkag29nr50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kuizer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
